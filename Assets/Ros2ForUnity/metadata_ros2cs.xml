@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<ros2cs>
+   <ros2>humble</ros2>
+   <version>
+      <sha>7c96eee7be7e98641b74cc20a3bfbb6d7ee9f339</sha>
+      <desc>7c96eee</desc>
+      <date>2024-04-08 18:25:01 +0900</date>
+   </version>
+   <standalone>0</standalone>
+</ros2cs>
